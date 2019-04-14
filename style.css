@@ -1,0 +1,15 @@
+.kutu1{
+    height: 100vh;
+    background-color: #2980b9;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.kutu2{
+    height: 100vh;
+    background-color: #1abc9c;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
